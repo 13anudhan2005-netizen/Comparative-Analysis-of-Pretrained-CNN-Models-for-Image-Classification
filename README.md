@@ -33,6 +33,7 @@ A Streamlit web application is used to provide an interactive interface.
 
 ```bash
 pip install -r requirements.txt
-streamlit run cnm.py
+streamlit run cnn.py
 ```
+
 
